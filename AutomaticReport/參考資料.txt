@@ -1,0 +1,19 @@
+Python3.9.5:
+https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
+Python Chrome Driver 更新工具:
+https://medium.com/drunk-wis/python-selenium-chrome-browser-與-driver-惱人的版本管理-cbaf1d1861cecbaf1d1861ce
+解决在Python中使用Win32api报错的问题，No module named win32api:
+https://www.cnblogs.com/sh170706/p/9640110.html
+Python 建立目錄(資料夾):
+https://www.itread01.com/content/1549998217.html
+Python Exception:
+https://dotblogs.com.tw/caubekimo/2018/09/17/145733
+Selenium & Chrome Drive 教學:
+https://medium.com/marketingdatascience/selenium教學-一-如何使用webdriver-send-keys-988816ce9bed
+
+bat if else 寫法:
+https://www.cnblogs.com/xiongzaiqiren/p/11364452.html
+App Install 無GUI模式:
+https://docs.microsoft.com/en-us/windows/win32/msi/standard-installer-command-line-options
+bat 中要求輸入參數:
+https://social.technet.microsoft.com/Forums/zh-TW/8365e00e-2930-4ec7-b57e-7fedcaa7b7b0/35531218392291420309214872019722312bat2001336664208372144325976?forum=windowsvistaclientzhcht
