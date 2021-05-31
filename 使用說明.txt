@@ -1,6 +1,3 @@
-# CCIT Temperature Automatic Report
- CCIT自動回報院部體溫
-
 打開AutomaticReport資料夾
 執行install.bat安裝環境(需要網路)
 打開bin資料夾修改dailytemp.py裡的學號與名字
